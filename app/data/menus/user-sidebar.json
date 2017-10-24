@@ -1,0 +1,16 @@
+{
+    "data": [{
+            "path": "products",
+            "text": "Sản phẩm",
+            "title": "Sản phẩm",
+            "class": "products",
+            "submenu": [{
+                "path": "add",
+                "text": "Thêm mới",
+                "title": "Thêm mới",
+                "class": "add"
+            }]
+        }
+
+    ]
+}

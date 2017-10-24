@@ -1,0 +1,22 @@
+{
+    "data": [{
+            "path": "/",
+            "text": "Trang chủ",
+            "title": "Trang chủ",
+            "class": "home-link"
+        },
+        {
+            "path": "profile",
+            "text": "Profile",
+            "title": "Profile",
+            "class": "profile",
+            "submenu": [{
+                "path": "add",
+                "text": "Thêm mới",
+                "title": "Thêm mới",
+                "class": "add"
+            }]
+        }
+
+    ]
+}

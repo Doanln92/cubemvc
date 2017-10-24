@@ -1,0 +1,28 @@
+{
+    "data": [{
+            "path": "info",
+            "text": "Trang cá nhân",
+            "title": "Thông tin cá nhân",
+            "class": "info"
+        },
+        {
+            "path": "update",
+            "text": "Sửa thông tin",
+            "title": "Cập nhật thông tin",
+            "class": "update-info"
+        },
+        {
+            "path": "account",
+            "text": "Thiết lập tài khoản",
+            "title": "Thiết lập tài khoản",
+            "class": "account-change"
+        },
+        {
+            "path": "password",
+            "text": "Đổi mật khẩu",
+            "title": "Đổi mật khẩu",
+            "class": "password-change"
+        }
+
+    ]
+}

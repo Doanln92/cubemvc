@@ -1,0 +1,71 @@
+{
+    "data": [{
+            "path": "categories",
+            "text": "Chủ đề",
+            "title": "Chủ đề",
+            "class": "categories",
+            "submenu": [{
+                "path": "add",
+                "text": "Thêm mới",
+                "title": "Thêm mới",
+                "class": "add"
+            }]
+        },
+        {
+            "path": "posts",
+            "text": "Bài viết",
+            "title": "Bài viết",
+            "class": "posts",
+            "submenu": [{
+                "path": "add",
+                "text": "Thêm mới",
+                "title": "Thêm mới",
+                "class": "add"
+            }]
+        },
+        {
+            "path": "products",
+            "text": "Sản phẩm",
+            "title": "Sản phẩm",
+            "class": "products",
+            "submenu": [{
+                "path": "add",
+                "text": "Thêm mới",
+                "title": "Thêm mới",
+                "class": "add"
+            }]
+        },
+        {
+            "path": "users",
+            "text": "Người dùng",
+            "title": "Người dùng",
+            "class": "users",
+            "submenu": [{
+                    "path": "members",
+                    "text": "Thành viên",
+                    "title": "Thành Viên",
+                    "class": "members"
+                },
+                {
+                    "path": "contents",
+                    "text": "Cộng tác viên",
+                    "title": "Cộng tác viên",
+                    "class": "contents"
+                },
+                {
+                    "path": "managers",
+                    "text": "Ban quản trị",
+                    "title": "Ban quản trị",
+                    "class": "managers"
+                },
+                {
+                    "path": "add",
+                    "text": "Thêm mới",
+                    "title": "Thêm mới",
+                    "class": "adduser"
+                }
+            ]
+        }
+
+    ]
+}
