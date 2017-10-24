@@ -1,0 +1,19 @@
+{
+    "name": "Doanln/cubemvc",
+    "description": "PHP MVC Framework",
+    "type": "project",
+    "require": {
+        "phpmailer/phpmailer": "^6.0"
+    },
+    "authors": [{
+        "name": "Doanln",
+        "email": "lengocdoan.hb.2016@gmail.com"
+    }],
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "app/controllers/",
+            "Models\\": "app/models/",
+            "Extensions\\": "app/extensions/"
+        }
+    }
+}
