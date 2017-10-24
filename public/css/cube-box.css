@@ -1,0 +1,60 @@
+/* cube-box */
+
+
+/* end cube-box */
+
+
+/* cube boc 576 */
+
+
+/* cube box 768 */
+
+.cube-box .first-post .post-thumb-bg {
+    height: 278px;
+}
+
+.cube-box.first-post .post-thumb-bg a {
+    height: 278px;
+}
+
+.cube-box .first-post .post-thumb-bg .post-meta h4 {
+    font-size: 25px;
+    margin: 6px auto 8px auto;
+}
+
+.cube-box .first-post .post-thumb-bg .post-meta p {
+    font-size: 17px;
+}
+
+.cube-box .post-list .post-item .post-thumb-small img {
+    width: initial;
+    height: 80px;
+}
+
+.cube-box .post-list[class*="col-"] .post-item .post-thumb-small img,
+.cube-box-area .post-list div[class*="col-"] .post-item .post-thumb-small img {
+    height: 68px;
+}
+
+#hotnews.cube-box .post-list[class*="col-"] .post-item .post-thumb-small[class*="col-"] img {
+    height: 65px;
+}
+
+#hotnews.cube-box .post-list[class*="col-"]>.post-item:last-child .post-thumb-small img {
+    height: 65px;
+}
+
+.cube-box .post-list .post-item h4 {
+    font-size: 17px;
+}
+
+
+/* 992 */
+
+.cube-box .post-list[class*="col-"] .post-item .post-thumb-small img {
+    height: 68px;
+}
+
+.cube-box .post-list .post-item .post-thumb-small img {
+    height: 70px;
+}

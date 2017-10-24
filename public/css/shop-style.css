@@ -1,0 +1,169 @@
+.table-responsive table img {
+    max-width: 120px;
+}
+
+form {
+    margin: 20px auto;
+}
+
+.max-150 {
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.max-200 {
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.max-250 {
+    max-width: 250px;
+    max-height: 250px;
+}
+
+.gallery-upload div {
+    margin: 10px auto;
+}
+
+.gallery-upload .custom-file {
+    display: block;
+}
+
+.gallery-upload {
+    max-height: 300px;
+    overflow-y: scroll;
+}
+
+.gallery-images img {
+    max-width: 100%;
+}
+
+.gallery-images .gallery-item {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.gallery-images .gallery-item .buttons {
+    position: absolute;
+    top: 0;
+    right: 15px;
+}
+
+.product-list .product {
+    height: 22em;
+    position: relative;
+    margin: 5px;
+    padding: 5px;
+    background: #fff;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -o-border-radius: 5px;
+    box-shadow: 0 0 10px silver;
+}
+
+.product .thumb {
+    text-align: center;
+    height: 255px;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.product .thumb img {
+    max-height: 14.6875em;
+    max-width: 100%;
+}
+
+.product-list .table-header {
+    margin: 10px auto;
+    position: relative;
+    background: dodgerblue;
+    height: 32px;
+    overflow-x: hidden;
+}
+
+.product-list .table-header h3 {
+    height: 30px;
+    position: absolute;
+    top: 2px;
+    left: -20px;
+    padding: 0 10px 0 30px;
+    box-sizing: border-box;
+    transform: skewx(30deg);
+    background: #fff;
+}
+
+.product-list .table-header h3 a {
+    display: block;
+    transform: skewx(-30deg);
+    height: 30px;
+    line-height: 30px;
+}
+
+.product-list .product .thumb img {
+    max-height: 14.6875em;
+}
+
+.product-list .product h4 {
+    font-size: 1.25em;
+    margin: 0.25em auto;
+}
+
+.product-list .product .baseinfo h4 a {
+    color: dodgerblue;
+}
+
+.product-list .product .baseinfo p {
+    position: relative;
+    font-size: 1em;
+}
+
+.product-list .product .baseinfo p span.price-text {
+    position: absolute;
+    top: 0;
+    right: 0;
+    display: block;
+    padding: 0.25em;
+    color: #f00;
+}
+
+.product-list .product .product-detail {
+    display: none;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: rgba(255, 255, 255, 0.9);
+    padding: 5px;
+}
+
+.product-list .product:hover .product-detail {
+    display: block;
+}
+
+.product-list .product .product-detail .name-price {}
+
+.product-list .product .product-detail span.price-text {
+    color: #f00;
+    font-size: 1em;
+}
+
+.product-list .product .product-detail .detail-info {
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+
+.product-list .product .product-detail .detail-info p {
+    font-size: 1.0125em;
+}
+
+.product-list .product .product-detail .buttons {
+    padding-top: 0.825em;
+    text-align: center;
+    border-top: 0.5px dotted silver;
+    position: absolute;
+    bottom: 15px;
+    left: 0;
+    right: 0;
+}

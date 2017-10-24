@@ -1,0 +1,152 @@
+/*
+ * Base structure
+ */
+
+
+/* Move down content because we have a fixed navbar that is 3.5rem tall */
+
+body {
+    padding-top: 3.5rem;
+}
+
+
+/*
+   * Typography
+   */
+
+h1 {
+    margin-bottom: 20px;
+    padding-bottom: 9px;
+    border-bottom: 1px solid #eee;
+}
+
+
+/*
+   * Sidebar
+   */
+
+.sidebar {
+    position: fixed;
+    top: 51px;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    padding: 20px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* Scrollable contents if viewport is shorter than content. */
+    border-right: 1px solid #eee;
+}
+
+
+/* Sidebar navigation */
+
+.sidebar {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.sidebar .nav {
+    margin-bottom: 20px;
+}
+
+.sidebar .nav-item {
+    width: 100%;
+}
+
+.sidebar .nav-item+.nav-item {
+    margin-left: 0;
+}
+
+.sidebar .nav-link {
+    border-radius: 0;
+}
+
+.mce-branding-powered-by,
+.sidebar .nav .sub-menu {
+    display: none;
+}
+
+.sidebar .nav .active .sub-menu {
+    display: block;
+}
+
+
+/*
+   * Dashboard
+   */
+
+
+/* Placeholders */
+
+.placeholders {
+    padding-bottom: 3rem;
+}
+
+.placeholder img {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.cube-alert {
+    color: hotpink;
+    border: 2px dotted hotpink;
+    border-radius: 10px;
+    display: block;
+    width: 100%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.form-group .custom-file {
+    min-width: 34%;
+}
+
+.table img {
+    max-width: 120px;
+}
+
+
+
+
+.gallery-upload div{
+    margin: 10px auto;
+}
+
+.gallery-upload .custom-file{
+    display: block;
+}
+
+.gallery-upload{
+    max-height: 300px;
+    overflow-y: scroll;
+}
+.gallery-images img{
+    max-width: 100%;
+}
+.gallery-images .gallery-item{
+    position: relative;
+    margin-bottom: 10px;
+} 
+.gallery-images .gallery-item .buttons{
+    position: absolute;
+    top: 0;
+    right: 15px;
+}
+
+
+
+.max-150{
+    max-width: 150px;
+    max-height: 150px;
+}
+
+.max-200{
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.max-250{
+    max-width: 250px;
+    max-height: 250px;
+}
