@@ -1,0 +1,288 @@
+        <article class="cube-slider hotnews grid-slide" id="cube-hotnews-slider" style="display:none">
+            <div class="container">
+                <div class="slides">
+                                                                <div class="slide">
+                        <div class="row">
+                                                        <div class="post-item big-cell col-12 col-sm-12 col-lg-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_2_9_3359ed5e8c40613.jpg)">
+                                <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_2_9_33.html" class="post-link">
+                                    <div class="post-meta">
+                                        <h3 class="post-title">
+                                            Hà Văn Thắm: Tài sản 1.000 tỷ của bị cáo giờ chỉ còn 100 tỷ 2 9 33                                        </h3>
+                                        <p>S&aacute;ng nay (24/9) phi&ecirc;n t&ograve;a x&eacute;t xử H&agrave; Văn Thắm v&agrave; 50</p>
+                                    </div>
+                                </a>
+                                <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                            </div>
+                            <div class="col-12 col-sm-12 col-lg-6">
+                                                                                            <div class="row">                                    <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Hai-be-trai-chet-duoi-o-bai-do-xe-buyt_3_10_2159ed5e972d453.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Hai-be-trai-chet-duoi-o-bai-do-xe-buyt_3_10_21.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Hai bé trai chết đuối ở bãi đỗ xe...
+                                                </h3>
+                                                <p>Hai b&eacute; trai l&agrave; anh em ruột được ph&aacute;t</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Giai-tri.chn" class="category-link">Giải trí</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_5_36_46_24_359ed5e951bd3a.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_5_36_46_24_3.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Cuộc khủng hoảng toàn cầu và tầm...
+                                                </h3>
+                                                <p>Đồng bằng s&ocirc;ng Cửu Long l&agrave; nơi c&oacute;</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Viet-Nam.chn" class="category-link">Việt Nam</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Can-canh-su-xuong-cap-cua-cho-An-Dong-o-Sai-Gon59ed5e878566e.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Can-canh-su-xuong-cap-cua-cho-An-Dong-o-Sai-Gon.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Cận cảnh sự xuống cấp của chợ An...
+                                                </h3>
+                                                <p>Trong số tài sản mà Bộ Công an yêu cầu Đà Nẵng</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_2_9_33_1259ed5e9616c15.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_2_9_33_12.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Hà Văn Thắm: Tài sản 1.000 tỷ của...
+                                                </h3>
+                                                <p>S&aacute;ng nay (24/9) phi&ecirc;n t&ograve;a x&eacute;t xử</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Cong-nghe.chn" class="category-link">Công nghệ</a>
+                                    </div>
+                                    
+                                </div>                                                            
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+                    </div>
+                                                                                        <div class="slide">
+                        <div class="row">
+                                                        <div class="post-item big-cell col-12 col-sm-12 col-lg-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_22_2959ed5e8bae9f8.jpg)">
+                                <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_22_29.html" class="post-link">
+                                    <div class="post-meta">
+                                        <h3 class="post-title">
+                                            Hà Văn Thắm: Tài sản 1.000 tỷ của bị cáo giờ chỉ còn 100 tỷ 22 29                                        </h3>
+                                        <p>S&aacute;ng nay (24/9) phi&ecirc;n t&ograve;a x&eacute;t xử H&agrave; Văn Thắm v&agrave; 50</p>
+                                    </div>
+                                </a>
+                                <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                            </div>
+                            <div class="col-12 col-sm-12 col-lg-6">
+                                                                                            <div class="row">                                    <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong59ed5e881a12e.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Sài Gòn tiếp tục mưa lớn và gió...
+                                                </h3>
+                                                <p>Ng&agrave;y 23/9, c&aacute;c tỉnh T&acirc;y Nguy&ecirc;n</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Hai-be-trai-chet-duoi-o-bai-do-xe-buyt_3659ed5e932d661.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Hai-be-trai-chet-duoi-o-bai-do-xe-buyt_36.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Hai bé trai chết đuối ở bãi đỗ xe...
+                                                </h3>
+                                                <p>Hai b&eacute; trai l&agrave; anh em ruột được ph&aacute;t</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Hai-be-trai-chet-duoi-o-bai-do-xe-buyt_3_10_1959ed5e8a728e6.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Hai-be-trai-chet-duoi-o-bai-do-xe-buyt_3_10_19.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Hai bé trai chết đuối ở bãi đỗ xe...
+                                                </h3>
+                                                <p>Hai b&eacute; trai l&agrave; anh em ruột được ph&aacute;t</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_2_34_41_259ed5e8ebc6c8.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Ha-Van-Tham-Tai-san-1-000-ty-cua-bi-cao-gio-chi-con-100-ty_2_34_41_2.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Hà Văn Thắm: Tài sản 1.000 tỷ của...
+                                                </h3>
+                                                <p>S&aacute;ng nay (24/9) phi&ecirc;n t&ograve;a x&eacute;t xử</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                </div>                                                            
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+                    </div>
+                                                                                        <div class="slide">
+                        <div class="row">
+                                                        <div class="post-item big-cell col-12 col-sm-12 col-lg-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_5_30_4459ed5e99c797e.jpg)">
+                                <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_5_30_44.html" class="post-link">
+                                    <div class="post-meta">
+                                        <h3 class="post-title">
+                                            Cuộc khủng hoảng toàn cầu và tầm nhìn chiến lược của Chính phủ 5 30 44                                        </h3>
+                                        <p>Đồng bằng s&ocirc;ng Cửu Long l&agrave; nơi c&oacute; thể thấy r&otilde; n&eacute;t</p>
+                                    </div>
+                                </a>
+                                <a href="http://localhost/thegioivuong/cubemvc/The-Gioi/An-ninh-khu-vuc.chn" class="category-link">An ninh khu vực</a>
+                            </div>
+                            <div class="col-12 col-sm-12 col-lg-6">
+                                                                                            <div class="row">                                    <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_5_859ed5e893e76d.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_5_8.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Cuộc khủng hoảng toàn cầu và tầm...
+                                                </h3>
+                                                <p>Đồng bằng s&ocirc;ng Cửu Long l&agrave; nơi c&oacute;</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Ap-thap-nhiet-doi-huong-vao-Quang-Ninh-Hai-Phong_6_1659ed5e8a270e0.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Ap-thap-nhiet-doi-huong-vao-Quang-Ninh-Hai-Phong_6_16.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Áp thấp nhiệt đới hướng vào Quảng...
+                                                </h3>
+                                                <p>S&aacute;ng nay (24/9) phi&ecirc;n t&ograve;a x&eacute;t xử</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_1159ed5e8993dd5.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_11.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Cuộc khủng hoảng toàn cầu và tầm...
+                                                </h3>
+                                                <p>Đồng bằng s&ocirc;ng Cửu Long l&agrave; nơi c&oacute;</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Ap-thap-nhiet-doi-huong-vao-Quang-Ninh-Hai-Phong_6_16_4659ed5e9453dde.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Ap-thap-nhiet-doi-huong-vao-Quang-Ninh-Hai-Phong_6_16_46.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Áp thấp nhiệt đới hướng vào Quảng...
+                                                </h3>
+                                                <p>S&aacute;ng nay (24/9) phi&ecirc;n t&ograve;a x&eacute;t xử</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                </div>                                                            
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+                    </div>
+                                                                                        <div class="slide">
+                        <div class="row">
+                                                        <div class="post-item big-cell col-12 col-sm-12 col-lg-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_11_20_2259ed5e9740d99.jpg)">
+                                <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_11_20_22.html" class="post-link">
+                                    <div class="post-meta">
+                                        <h3 class="post-title">
+                                            Cuộc khủng hoảng toàn cầu và tầm nhìn chiến lược của Chính phủ 11 20 22                                        </h3>
+                                        <p>Đồng bằng s&ocirc;ng Cửu Long l&agrave; nơi c&oacute; thể thấy r&otilde; n&eacute;t</p>
+                                    </div>
+                                </a>
+                                <a href="http://localhost/thegioivuong/cubemvc/Am-thuc.chn" class="category-link">Ẩm thực</a>
+                            </div>
+                            <div class="col-12 col-sm-12 col-lg-6">
+                                                                                            <div class="row">                                    <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong_4_7_14_3259ed5e92cc483.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong_4_7_14_32.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Sài Gòn tiếp tục mưa lớn và gió...
+                                                </h3>
+                                                <p>Ng&agrave;y 23/9, c&aacute;c tỉnh T&acirc;y Nguy&ecirc;n</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong_2459ed5e8b22c18.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong_24.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Sài Gòn tiếp tục mưa lớn và gió...
+                                                </h3>
+                                                <p>Ng&agrave;y 23/9, c&aacute;c tỉnh T&acirc;y Nguy&ecirc;n</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_11_2059ed5e912bace.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Cuoc-khung-hoang-toan-cau-va-tam-nhin-chien-luoc-cua-Chinh-phu_11_20.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Cuộc khủng hoảng toàn cầu và tầm...
+                                                </h3>
+                                                <p>Đồng bằng s&ocirc;ng Cửu Long l&agrave; nơi c&oacute;</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" class="category-link">Thời sự</a>
+                                    </div>
+                                    
+                                                                                                                                                                <div class="post-item small-cell col-6" style="background-image:url(http://localhost/thegioivuong/cubemvc/public/contents/posts/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong_4_5_2_1559ed5e9665d4f.jpg)">
+                                        <a href="http://localhost/thegioivuong/cubemvc/chi-tiet/Sai-Gon-tiep-tuc-mua-lon-va-gio-manh-Ha-Noi-mua-dong_4_5_2_15.html" class="post-link">
+                                            <div class="post-meta">
+                                                <h3 class="post-title">
+                                                Sài Gòn tiếp tục mưa lớn và gió...
+                                                </h3>
+                                                <p>Ng&agrave;y 23/9, c&aacute;c tỉnh T&acirc;y Nguy&ecirc;n</p>
+                                            </div>
+                                        </a>
+                                        <a href="http://localhost/thegioivuong/cubemvc/Cong-nghe.chn" class="category-link">Công nghệ</a>
+                                    </div>
+                                    
+                                </div>                                                            
+                            </div>
+                        </div>
+
+                        <div class="clearfix"></div>
+                    </div>
+                                                                <!-- end slide -->
+
+                    <div class="buttons">
+                        <a href="#" class="btn-left button-preview"><i class="fa fa-angle-double-left" aria-hidden="true"></i></a>
+                        <a href="#" class="btn-right button-next"><i class="fa fa-angle-double-right" aria-hidden="true"></i></a>
+                        <!-- <div class="dots">
+                        <div class="dot active" data-num="1"></div>
+                        <div class="dot" data-num="2"></div>
+                        <div class="dot" data-num="3"></div>
+                        <div class="dot" data-num="4"></div>
+                        <div class="dot" data-num="5"></div>
+                    </div> -->
+                    </div>
+                </div>
+            </div>
+        </article>
+        <!-- end slider -->

@@ -1,0 +1,65 @@
+            <div class="container nav-wrapper">
+                <nav id="main-nav">
+                    <div class="container">
+                        <div class="nav-container">
+                            <div class="row">
+                                <div class="col-8 col-sm-8 brand">
+                                    <a href="#">
+                                        <img src="http://localhost/thegioivuong/cubemvc/public/images/logo.png" alt="TheGioiVuong.com">
+                                    </a>
+                                </div>
+                                <div class="col-4 col-sm-4 button">
+                                    <a href="#" class="btn-toggle"><i class="fa fa-bars" aria-hidden="true"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                                                                                                <ul id="main-menu" class="menu">
+<li  id="home-item" class="active"><a href="http://localhost/thegioivuong/cubemvc/" title="Trang chủ" class="active ">Trang chủ</a></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/Thoi-su.chn" title="Thời sự">Thời sự</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/Thoi-su/An-Ninh-Quoc-Phong.chn" title="An Ninh Quốc Phòng">An Ninh Quốc Phòng</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Thoi-su/Giao-Thong.chn" title="Giao Thông">Giao Thông</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Thoi-su/Tin-Van.chn" title="Tin Vắn">Tin Vắn</a></li>
+</ul></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/Viet-Nam.chn" title="Việt Nam">Việt Nam</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/Viet-Nam/Su-Kien.chn" title="Sự Kiện">Sự Kiện</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Viet-Nam/Kinh-Te.chn" title="Kinh Tế">Kinh Tế</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Viet-Nam/Chinh-Tri.chn" title="Chính Trị">Chính Trị</a></li>
+</ul></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/The-Gioi.chn" title="Thế Giới">Thế Giới</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/The-Gioi/Binh-luan-quoc-te.chn" title="Bình luận quốc tế">Bình luận quốc tế</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/The-Gioi/An-ninh-khu-vuc.chn" title="An ninh khu vực">An ninh khu vực</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/The-Gioi/Goc-nhin-toan-canh.chn" title="Góc nhìn toàn cảnh">Góc nhìn toàn cảnh</a></li>
+</ul></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/Cong-nghe.chn" title="Công nghệ">Công nghệ</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/Cong-nghe/Hi-Tek.chn" title="Hi-Tek">Hi-Tek</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Cong-nghe/Ung-Dung.chn" title="Ứng Dụng">Ứng Dụng</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Cong-nghe/Smartphone.chn" title="Smartphone">Smartphone</a></li>
+</ul></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/Giai-tri.chn" title="Giải trí">Giải trí</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/Giai-tri/Dien-Anh.chn" title="Điện Ảnh">Điện Ảnh</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Giai-tri/Nguoi-noi-tieng.chn" title="Người nổi tiếng">Người nổi tiếng</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Giai-tri/Am-Nhac.chn" title="Âm Nhạc">Âm Nhạc</a></li>
+</ul></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/Am-thuc.chn" title="Ẩm thực">Ẩm thực</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/Am-thuc/Mon-an-duong-pho.chn" title="Món ăn đường phố">Món ăn đường phố</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Am-thuc/Mi-kip-tai-nha.chn" title="Mí kíp tại nhà">Mí kíp tại nhà</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Am-thuc/Mon-ngon-the-gioi.chn" title="Món ngon thế giới">Món ngon thế giới</a></li>
+</ul></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/Van-hoa.chn" title="Văn hóa">Văn hóa</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/Van-hoa/Su-kien-van-hoa.chn" title="Sự kiện văn hóa">Sự kiện văn hóa</a></li>
+<li><a href="http://localhost/thegioivuong/cubemvc/Van-hoa/Di-san-phi-vat-the.chn" title="Di sản phi vật thể">Di sản phi vật thể</a></li>
+</ul></li>
+<li class="has-child "><a href="http://localhost/thegioivuong/cubemvc/Doi-song.chn" title="Đời sống">Đời sống</a><ul class="sub-menu">
+<li><a href="http://localhost/thegioivuong/cubemvc/Doi-song/Hoc-duong.chn" title="Học dường">Học dường</a></li>
+</ul></li>
+<li  id="shop-item" class="has-child "><a href="http://localhost/thegioivuong/cubemvc/shop" title="Cửa hàng">Cửa hàng</a><ul class="sub-menu">
+<li  id="shop-add-product"><a href="http://localhost/thegioivuong/cubemvc/shop/add-product" title="Thêm sản phẩm">Thêm sản phẩm</a></li>
+<li  id="shop-owner"><a href="http://localhost/thegioivuong/cubemvc/shop/owner/doan" title="Gian hàng của bạn">Gian hàng của bạn</a></li>
+</ul></li>
+<li  id="cart-item" class="cart-item right "><a href="http://localhost/thegioivuong/cubemvc/cart" title="Giỏ hàng">
+            <i class="fa fa-shopping-cart"></i> (<span class="cart-item-total">0</span>)
+            </a></li>
+</ul>                        
+                    </div>
+                </nav>
+            </div>
