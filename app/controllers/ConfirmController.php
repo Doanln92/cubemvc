@@ -3,10 +3,10 @@
 use Models\UserConfirm;
 class ConfirmController extends Controller
 {
-	protected $expireTime = 3600*24;
+	protected $expireTime = 864000;
 	function __construct()
 	{
-		Html::title("Thế Giới Vuông");
+		Html::title("HoDuong.com");
     }
     
     public function makeConfirm($email,$type=1,$time=null,$option_value='')

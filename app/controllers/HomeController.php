@@ -29,8 +29,8 @@ class HomeController extends Controller
 			$this->user = $user;
 		}else{
 			
-		}
-        Html::title("Thế Giới Vuông");
+        }
+        Html::title("HoDuong.com");
         
     }
 

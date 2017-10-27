@@ -25,6 +25,7 @@ class AdminController extends Controller
 
 		
 		$this->setViewPath('dashboard');
+		Html::title("HoDuong.com");
 	}
 
 	
@@ -430,7 +431,7 @@ class AdminController extends Controller
 					if(!$this->deletePosts(array('cat_id'=>$c->id))) $stt = false;
 				}
 				if($stt){
-					if(!$cat->delete()) $stt = false;
+					if(!$c->delete()) $stt = false;
 				}
 			
 			}

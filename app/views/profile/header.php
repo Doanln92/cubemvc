@@ -8,7 +8,7 @@
 	<meta name="author" content="">
 	<link rel="icon" href="../../../../favicon.ico">
 	-->
-    <title>tintuc</title>
+    <title>{{Html::title()}}</title>
     <!-- Bootstrap core CSS -->
     <link href="{{public_url('res/bootstrap/css/bootstrap.min.css')}}" rel="stylesheet">
     <link href="{{public_url('res/fa/css/font-awesome.min.css')}}" rel="stylesheet">

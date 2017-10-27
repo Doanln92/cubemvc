@@ -1,4 +1,4 @@
--- phpMyAdmin SQL Dump
+﻿-- phpMyAdmin SQL Dump
 -- version 4.7.0
 -- https://www.phpmyadmin.net/
 --
@@ -815,8 +815,8 @@ CREATE TABLE `users` (
   `gender` tinyint(1) NOT NULL,
   `avatar` varchar(128) NOT NULL,
   `level` varchar(2) NOT NULL,
-  `created_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
-  `updated_at` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP,
+  `created_at` timestamp NOT NULL,
+  `updated_at` timestamp NOT NULL,
   `auth_token` varchar(32) NOT NULL,
   `token_expire_date` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf16;

@@ -159,11 +159,9 @@ class Route {
 				$cb = $this->_callback;
 				$type = gettype($cb);
 				$a = null;
-				if($type == 'object'){
+				if(is_callable($cb)){
 					$stt = true;
-					if(is_callable($cb)){
-						$a = call_user_func_array($cb, $args);
-					}
+					$a = call_user_func_array($cb, $args);
 					
 				}elseif($type=='string'){
 					if(function_exists($cb)){
@@ -171,6 +169,7 @@ class Route {
 						$a = call_user_func_array($cb, $args);
 					}elseif($ctl = explode('@', $cb)){
 						if($c = get_controller($ctl[0])){
+							
 							$mth = isset($ctl[1])?$ctl[1]:'index';
 							if(method_exists($c, $mth)){
 								$stt = true;

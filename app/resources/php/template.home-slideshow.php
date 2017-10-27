@@ -13,7 +13,7 @@ if(count($random_posts)>=5){
             <div class="container">
                 <div class="slides">
                     <?php foreach($slide_post as $slide){ ?>
-                        <?php if(count($slide)==5){ ?>
+                        @if(count($slide)==5)
                     <div class="slide">
                         <div class="row">
                             <?php $first = $slide[0]; ?>

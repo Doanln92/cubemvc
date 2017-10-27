@@ -51,8 +51,8 @@ Cube::set('/config/add/{name}/{key}/{value}','GET', 'WebConfigController@AddConf
 
 
 
-Cube::set('/login','GET,POST', 'userController@login','login');
-Cube::set('/logout','GET', 'userController@logout','logout');
+Cube::set('/login','GET,POST', 'UserController@login','login');
+Cube::set('/logout','GET', 'UserController@logout','logout');
 Cube::set('/register','GET,POST', 'UserController@register', 'register');
 Cube::set('/forgot','GET,POST', 'UserController@forgot', 'forgot');
 Cube::set('/reset-password','GET,POST', 'UserController@resetPassword', 'reset-password');

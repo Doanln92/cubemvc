@@ -219,7 +219,7 @@ class CubeHtmlMenu
         $menu = new static($options);
         echo $menu->create($list,$url,$path_pos,$options);
     }
-    public function createHomeMenu($args,$url=null,$active_key=null,$options = null){
+    public static function createHomeMenu($args,$url=null,$active_key=null,$options = null){
         $list = self::getMenuList($args);
         array_unshift($list,array('type'=>'custom','active_key'=>'home','text'=>'Trang chủ','title'=>'Trang chủ','path'=>'','id'=>'home-item'));
         $shop = array('type'=>'custom','active_key'=>'shop','text'=>'Cửa hàng','title'=>'Cửa hàng','path'=>'shop','id'=>'shop-item');

@@ -12,7 +12,7 @@ if(count($random_posts)>=5){
         <article class="cube-slider hotnews grid-slide" id="cube-hotnews-slider" style="display:none">
             <div class="container">
                 <div class="slides">
-                    @foreach($slide_post as $slide)
+                    @foreach($slide_post as $slide):
                         @if(count($slide)==5)
                     <div class="slide">
                         <div class="row">

@@ -3,13 +3,13 @@
                 <div class="site-map row">
                 @$Cat = get_model('Category');
                 {{$categoryes = $Cat::where('parent_id','')->get()}}
-                @forif($categoryes, $cat)
+                @forif($categoryes, $cat):
                     
                     <div class="col-4 col-sm-3 col-lg-2">
                         <ul>
                             <li class="big-cate"><a href="{{$cat->getUrl()}}">{{$cat->name}}</a></li>
-                            @if($ch = $cat->getChildren())
-                                @foreach($ch as $c)
+                            @if($ch = $cat->getChildren()):
+                                @foreach($ch as $c):
                             
                                 <li><a href="{{$c->getUrl()}}">{{$c->name}}</a></li>
                 

@@ -4,8 +4,8 @@
 
 
 <h2>User</h2>
-@if($users)
-@include('search-form')
+@if($users):
+@include('search-form');
 <table class="table">
     <thead>
         @include('table-header', compact('name_list','sort_list'));

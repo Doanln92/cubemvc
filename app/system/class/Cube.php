@@ -64,7 +64,7 @@ class Cube{
     public static function run()
     {
         $pathinfo = App::pathinfo();
-        if(!$pathinfo) $pathinfo = 'index';
+        if(!$pathinfo) $pathinfo = '/';
         $request = new HTTPRequest();
         $method = strtoupper($request->getMethod());
         if(self::$_routes){

@@ -1,4 +1,4 @@
-@$catlst = $cat->andWhere('parent_id',$cat->id)->limit(4)->get();
+<?php $catlst = $cat->andWhere('parent_id',$cat->id)->limit(4)->get();?>
 <div class="cube-box-area bg-black cube-tab">
     <div class="cube-box-header cube-tab-header">
         <h3><a href="{{$cat->getUrl()}}">{{$cat->name}}</a></h3>

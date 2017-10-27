@@ -17,7 +17,7 @@ class User extends BaseModel
         if(!is_array($data) || !isset($data['updated_at']) || !$data['updated_at'] || !isset($this->updated_at)){
             $this->updated_at = date('Y-m-d H:i:s');
         }
-        parent::insert($data);
+        return parent::insert($data);
     }
 
     

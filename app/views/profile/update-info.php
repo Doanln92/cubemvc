@@ -1,5 +1,5 @@
 @layout(main)
-@assign('pagetitle','Cập nhật thông tin người dùng')
+@assign('pagetitle','Cập nhật thông tin người dùng');
 @$e = new Arr($errors);
 @$f = new Arr($data);
 

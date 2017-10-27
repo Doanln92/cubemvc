@@ -19,6 +19,7 @@ class ProductController extends Controller
             //redirect(get_home_url('login?next='.get_current_url(true,true)));
         }
         $this->setViewPath(App::pathinfo(1));
+        Html::title("HoDuong.com");
     }
 
     public function alert($message="Hello World!", $alert_type='success')

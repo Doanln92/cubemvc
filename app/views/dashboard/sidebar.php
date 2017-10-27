@@ -1,7 +1,8 @@
 
             <nav class="col-sm-3 col-md-2 d-none d-sm-block bg-light sidebar">
             @$CHM = get_extension('CubeHtmlMenu');
-            @if(get_model('User')::getCurrentLogin()->level < 1)
+            @$User = get_model('User');
+            @if($User::getCurrentLogin()->level < 1)
                 @$filename = 'user-sidebar';
             @else
                 @$filename = 'admin-sidebar';

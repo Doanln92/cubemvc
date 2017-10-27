@@ -23,6 +23,7 @@ class UserController extends Controller
 	{
         $this->model = new User();
         $this->checkLogin();
+        Html::title("HoDuong.com");
     }
     
     public function isLogin()
@@ -246,7 +247,7 @@ class UserController extends Controller
             'message'=>$mess,
             'next' => $next
         );
-        view('login',$arr);
+        $this->view('login',$arr);
     }
     public function logout(){
         if($this->is_login){
